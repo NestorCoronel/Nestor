@@ -56,7 +56,9 @@ public class Libro {
     }
 
     public void setNumeroDePagina(int numeroDePagina) {
+        System.out.println("puto el que lo robe");
         this.numeroDePagina = numeroDePagina;
     }
+    
     
 }
