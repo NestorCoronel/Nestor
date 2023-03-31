@@ -1,0 +1,8 @@
+git init    (inicializa el git)
+git remote add origin https://github.com/Alien3k/PooEjTeoria.git    (ejemplo de agregar proyecto)
+git remote -v      (comprobar que se agrego bien)
+git config -l     (info)
+git status      (muestra lo que se envio y lo que no)
+git add .     (prepara todo para el commit)
+git commit -m "Nombre del comit"  (crear el nombre del commit)
+git push origin master (enviar)
